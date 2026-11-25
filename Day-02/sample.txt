@@ -1,0 +1,4 @@
+This is the Sample file.
+That it contains multiple lines of text.
+For the sample test work on File handling topic of python.
+So today's topic is Python File handling
